@@ -21,8 +21,8 @@ pip install csecraft
 Or
 
 ```bash
-git clone https://github.com/benkimz/cse-api.git
-cd cse-api
+git clone https://github.com/benkimz/csecraft.git
+cd csecraft
 pip install .
 ```
 
