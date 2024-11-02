@@ -6,13 +6,13 @@ with open('README.md', 'r', encoding="utf-8") as f:
 
 setup(
     name='csecraft',
-    version='0.1.0',
+    version='0.1.2',
     description='A Python library for easily interacting with the Google Custom Search API',
     long_description=library_description,
     long_description_content_type='text/markdown',
     author='Benard K. Wachira (@benkimz)',
     maintainer='@benkimz',
-    url='https://github.com/benkimz/cse-api',
+    url='https://github.com/benkimz/csecraft',
     license='MIT',
     keywords=['google', 'cse', 'api', 'search', 'custom search'],
     platforms=['any'],
